@@ -1,4 +1,4 @@
-**Create the cluster using KOPS**
+**Create Kubernetes clusters using KOPS**
 
 **Prerequisite**
 1. AWS Account
